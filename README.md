@@ -59,7 +59,7 @@ between 1-1000 on the 192.168.1.1 IP address, writes the
 results to the results.txt file, and only shows open ports
 
 ```bash
-python3 lemTCP.py --ip 192.168.1.1 --port1 1 --port2 1000 --output results.txt --only-open
+python3 LemTCP.py --ip 192.168.1.1 --port1 1 --port2 1000 --output results.txt --only-open
 ```
 ## Updates & Future Plans
 The latest version of LemTCP was released on 05.06.2023. We're actively working on new features and improvements, with an update planned in 25 days. We highly value and carefully consider your feedback.
