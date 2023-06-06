@@ -44,7 +44,7 @@ Next, download the tool that allows for printing styled text:
 ```bash
 git clone https://github.com/xero/figlet-fonts
 
-Then, move the downloaded file to '/usr/share/figlet/fonts/'.
+Then, move the downloaded file to 'mv * /usr/share/figlet/'.
 ```
 ## Usage
 
