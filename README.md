@@ -37,6 +37,9 @@ Install the necessary libraries with the following commands:
 
 ```bash
 pip3 install socket argparse concurrent.futures colored os
+
+sudo apt-get install lolcat
+
 ```
 
 Next, download the tool that allows for printing styled text:
